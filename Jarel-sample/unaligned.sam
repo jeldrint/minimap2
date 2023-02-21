@@ -1,0 +1,3 @@
+@HD	VN:1.6	SO:unsorted	GO:query
+@SQ	SN:NC_019843.3	LN:30119
+@PG	ID:minimap2	PN:minimap2	VN:2.24-r1155-dirty	CL:minimap2 -a -x asm20 --sam-hit-only --secondary=no --score-N=0 -o ./Jarel-sample/unaligned.sam sequence.fasta sequence2.fas
